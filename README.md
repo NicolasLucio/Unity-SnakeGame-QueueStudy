@@ -14,9 +14,9 @@ A normal ingame exemple
 
 # Aditional Details
 
-This game was made in class after an example of how to use the Queue function. So, only using this, it was, since the beginning simple.
+This game was made in class after an example of how to use the Queue function. So, only using this, it was, since the beginning, simple.
 
-And know, this is a exemple game for the course. 
+And now, this is a exemple game for the course. 
 
 ```
 (Pontifícia Universidade Católica - Campinas - São Paulo - Brasil)
