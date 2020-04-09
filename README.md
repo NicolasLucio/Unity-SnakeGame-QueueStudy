@@ -1,7 +1,7 @@
 # Unity-SnakeGame-QueueStudy
 A simple game made only with scripts and a single image.
 
-This exemple use the 2018 LTS Unity Version (2018.4.12f1)
+This exemple use the 2018 LTS Unity Version (2018.4.20f1)
 
 # Screenshot Exemples
 How to win this game
